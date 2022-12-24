@@ -6,3 +6,8 @@
 import './assets/styles/sass/style.sass'
 // import "./style.scss";
 console.log('hello');
+
+
+
+// const container = document.querySelector('.container')
+// (document.querySelector('.container') as HTMLDivElement);
